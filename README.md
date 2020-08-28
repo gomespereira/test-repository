@@ -1,1 +1,3 @@
-# test-repository
+# Test Repo
+
+A repository for testing Git commands
